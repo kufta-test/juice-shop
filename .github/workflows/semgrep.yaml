@@ -1,6 +1,8 @@
 # Name of this GitHub Actions workflow.
 name: Semgrep
 
+# adding comment to do full scan
+
 on:
   # Scan changed files in PRs (diff-aware scanning):
   pull_request: {}

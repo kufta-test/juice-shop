@@ -4,6 +4,7 @@
  */
 
 /* jslint node: true */
+// add comment for PR scan
 import { AddressModel } from '../models/address'
 import { BasketModel } from '../models/basket'
 import { BasketItemModel } from '../models/basketitem'
